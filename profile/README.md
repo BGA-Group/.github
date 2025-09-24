@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="blockchaingamealliance.io Banner" width="800"/>
+  <img src="https://github.com/BGA-Group/.github/blob/3d1018a4cc28bcb9aaaf3bf3b63f966787fb021e/profile/assets/banner.png" alt="blockchaingamealliance.io Banner" width="800"/>
 </p>
 
 
